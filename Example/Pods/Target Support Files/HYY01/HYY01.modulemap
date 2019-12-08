@@ -1,0 +1,6 @@
+framework module HYY01 {
+  umbrella header "HYY01-umbrella.h"
+
+  export *
+  module * { export * }
+}

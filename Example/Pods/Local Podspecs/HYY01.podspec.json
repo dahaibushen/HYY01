@@ -1,0 +1,22 @@
+{
+  "name": "HYY01",
+  "version": "0.1.0",
+  "summary": "HYY01",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dahaibushen/HYY01",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "991779153@qq.com": "991779153@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/dahaibushen/HYY01.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HYY01/Classes/**/*"
+}
